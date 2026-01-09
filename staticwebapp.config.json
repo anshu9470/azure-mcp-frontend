@@ -9,7 +9,11 @@
     "X-Content-Type-Options": "nosniff"
   },
   "mimeTypes": {
+    ".js": "text/javascript",
+    ".mjs": "text/javascript",
     ".json": "application/json",
-    ".svg": "image/svg+xml"
+    ".svg": "image/svg+xml",
+    ".css": "text/css",
+    ".html": "text/html"
   }
 }
